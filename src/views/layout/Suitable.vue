@@ -4,10 +4,10 @@
         <span class="text-gray-500 text-xl pt-4 block">Có gì bất ngờ ở đây</span>
         <div class="suitable_slide container p-4 flex flex-wrap justify-between items-center mx-auto">
             <div class="owl-carousel owl-theme">
-                <div class="item rounded-lg overflow-hidden border border-gray-200 shadow-md ">
+                <div class="item rounded-lg overflow-hidden border border-gray-200 shadow-md group">
                     <div class="max-w-sm bg-white">
-                        <a href="#">
-                            <img class="!w-40 inline-block mx-auto" src="../../assets/wine.png" alt="" />
+                        <a href="#" class="relative overflow-hidden bg-no-repeat bg-cover block">
+                            <img class="inline-block mx-auto group-hover:scale-110 transition duration-300 ease-in-out" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(70).webp" alt="" />
                         </a>
                         <div class="p-5 bg-gray-200 text-left">
                             <a href="#">
@@ -21,13 +21,26 @@
                         </div>
                     </div>
                 </div>
-                
-              
             </div>
         </div>
 
-        <div id="Suitable_intro">
-            
+        <div id="Suitable_intro" class="container p-4 flex flex-wrap justify-between items-center mx-auto">
+            <div class="bg-amber-900 rounded p-8 md:w-2/4 text-left lg:h-[500px]">
+                <h3 class="uppercase text-white font-bold pb-4">tạo hương vị đặc biệt cho ly rượu</h3>
+                <p class="text-white font-medium">Chúng tôi muốn bạn tự tạo cho chính bản thân mình hương vị theo ý thích. Đó là bản chất cơ bản nhất để có những tách cà phê thơm ngon nhất.</p>
+                <a href="#" class="rounded-lg border-2 border-white text-white inline-block p-2 font-bold text-lg mt-4">Khám phá thêm menu</a>
+            </div>
+            <div class="w-full mt-2 md:w-2/4 md:mt-0 lg:p-6 lg:pr-0">
+                <div class="owl-carousel owl-theme">
+                    <div class="item w-full">
+                        <a href="#">
+                            <img class="!w-full lg:h-[400px] rounded object-cover object-center" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                        </a>
+                    </div>
+                   
+                </div> 
+            </div>
+
         </div>
     </div>
 </template>
@@ -55,8 +68,20 @@ $(document).ready(function() {
             items:3
         },
         1200:{
-            items:5
+            items:4
         }
+    }
+})
+
+$('#Suitable_intro .owl-carousel').owlCarousel({
+    loop:true,
+    margin:20,
+    nav:true,
+    dot:true,
+    responsive:{
+        0:{
+            items:1
+        },
     }
 })
 });

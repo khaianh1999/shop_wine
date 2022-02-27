@@ -6,22 +6,22 @@
 
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-                <img src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full" alt="...">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(73).webp" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full object-cover object-center" alt="...">
             </div>
 
             <!-- Item 2 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item="">
-                <img src="https://images.pexels.com/photos/3084603/pexels-photo-3084603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full" alt="...">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(74).webp" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full object-cover object-center" alt="...">
             </div>
 
             <!-- Item 3 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item="">
-                <img src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full" alt="...">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(75).webp" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full object-cover object-center" alt="...">
             </div>
 
             <!-- Item 4 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item="">
-                <img src="https://images.pexels.com/photos/3084603/pexels-photo-3084603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(76).webp" class="block bg-center absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2 h-full object-cover object-center" alt="...">
             </div>
 
         </div>

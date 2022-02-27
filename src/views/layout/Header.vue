@@ -1,5 +1,5 @@
 <template>
-   <nav class="border-gray-200 px-2 sm:px-4 py-2.5 bg-gray-800">
+   <nav class="border-gray-200 px-2 sm:px-4 py-4 bg-gray-800">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
   <a href="#" class="flex">
       <i class="fa-solid fa-wine-bottle text-2xl text-amber-400"></i>

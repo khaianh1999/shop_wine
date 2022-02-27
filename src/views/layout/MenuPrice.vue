@@ -4,7 +4,7 @@
         <span class="text-gray-200 text-xl pt-4 block">Có gì đặc biệt ở đây</span>
         <div class="group_price container flex flex-wrap justify-between items-center mx-auto">
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInLeft" data-wow-duration="1s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(73).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
@@ -14,7 +14,7 @@
                 </div>
             </a>
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInRight" data-wow-duration="1s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(13).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
@@ -24,7 +24,7 @@
                 </div>
             </a>
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInLeft" data-wow-duration="2s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(45).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
@@ -34,7 +34,7 @@
                 </div>
             </a>
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInRight" data-wow-duration="2s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(79).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
@@ -44,7 +44,7 @@
                 </div>
             </a>
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInLeft" data-wow-duration="2.5s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(54).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
@@ -54,7 +54,7 @@
                 </div>
             </a>
             <a href="#" class="lg:w-1/2 flex items-center p-4 block wow slideInRight" data-wow-duration="2.5s">
-                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://images.pexels.com/photos/1545529/pexels-photo-1545529.jpeg?cs=srgb&dl=pexels-ray-piedra-1545529.jpg&fm=jpg" alt="">
+                <img class="w-[100px] h-[100px] rounded-xl hover:scale-110 transition duration-300 ease-in-out cursor-pointer" src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/12-col/img%20(73).webp" alt="">
                 <div class="content w-full pl-4">
                     <div class="name_product flex justify-between border-dashed  border-b-2 border-gray-400 pb-2 mb-2">
                         <span class="uppercase text-amber-400 font-bold text-xl">rượu ngon</span>
